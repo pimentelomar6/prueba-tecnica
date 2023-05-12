@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Struthio';
+    src: local('Struthio Bold Round'), local('Struthio-Bold-Round'),
+        url('Struthio-BoldRound.woff2') format('woff2'),
+        url('Struthio-BoldRound.woff') format('woff'),
+        url('Struthio-BoldRound.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
