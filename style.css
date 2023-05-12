@@ -787,3 +787,97 @@ footer .row img {
     justify-content: center;
   }
 }
+
+
+@media screen and (max-width: 570px) {
+    .struthio{
+      font-size: 30px;
+    }
+
+    .carrers-text h1{
+      text-align: center;
+    }
+
+    .about-text{
+      margin: 20px;
+    }
+
+    .about-img img{
+      width: 300px;
+      margin: 20px;
+    }
+}
+
+
+@media screen and (max-width: 459px){
+
+
+  .hero {
+    padding: 350px 0px 60px 0px;
+  }
+
+  .nav-top{
+    font-size: 14px;
+  }
+     h3 {
+      font-size: 22px;
+     }
+
+     h2 {
+      font-size: 25px;
+     }
+
+     .struthio{
+      font-size: 26px;
+    }
+
+
+    .nav-top-info{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+    
+    .team-text{
+      padding: 40px;
+      margin-bottom: 0px;
+    }
+
+    .carrers-text{
+      padding: 40px;
+      margin-bottom: 0px;
+    }
+
+    .study-carrers .contenedor{
+      padding: 0px 60px 0px 35px;
+    }
+}
+
+@media screen and (max-width: 400px){
+
+
+ 
+
+ 
+     h3 {
+      font-size: 18px;
+     }
+
+     h2 {
+      font-size: 21px;
+     }
+
+     .struthio{
+      font-size: 22px;
+    }
+
+    .container-card{
+      margin-top: 20px;
+    }
+    
+    .team .team-text{
+      padding-bottom: 20px;
+    }
+    
+}
